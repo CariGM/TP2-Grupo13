@@ -18,6 +18,7 @@ public class EmpleadoSueldo {
         int cal2;
         int cal3;
         int cal4;
+        //asda
         System.out.println("ingrese el nombre");
         nombre = teclado.next();
         //System.out.println("ingrese la fecha de ingreso");
@@ -38,6 +39,7 @@ public class EmpleadoSueldo {
             cal4=horas*600;
             System.out.println(cal4);
         }
+        
         System.out.println("*******************************Dato del Empleado******************");
         System.out.println("************************Empleado       : "+ nombre+"  ******************");
         System.out.println("************************Legajo         : "+ legajo+"  ******************");
