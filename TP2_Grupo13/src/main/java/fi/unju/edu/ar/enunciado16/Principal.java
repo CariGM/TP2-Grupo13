@@ -1,4 +1,4 @@
-package fi.unju.edu.ar.enunciado15;
+package fi.unju.edu.ar.enunciado16;
 
 
 import java.util.Scanner;
