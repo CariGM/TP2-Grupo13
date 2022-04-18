@@ -43,7 +43,7 @@ public class EmpleadoSueldo {
         System.out.println("************************Legajo         : "+ legajo+"  ******************");
         System.out.println("************************Gmail          : "+ Email+ "  *******************");
         System.out.println("************************HS de trabajo  : "+ horas+ "  *******************");
-        System.out.println("*******************Sueldo del trabajor : "+ horas+ "  *******************");
+        System.out.println("*******************Sueldo del trabajor : "+ cal4+ "  *******************");
 
     }
 
