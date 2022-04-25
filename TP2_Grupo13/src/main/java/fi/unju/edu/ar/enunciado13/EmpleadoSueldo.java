@@ -25,7 +25,7 @@ public class EmpleadoSueldo {
         //fecha= teclado.nextInt();
         System.out.println("ingrese el legajo");
         legajo=teclado.nextInt();
-        System.out.println("ingrese la el Email");
+        System.out.println("ingrese el Email");
         Email=teclado.next();
         System.out.println("ingrese las hora de trabajo");
         horas=teclado.nextInt();
